@@ -1,0 +1,33 @@
+🧠 AI Chatbot & Translator by Manish Kumar
+A Node.js-based AI application featuring:
+
+💬 AI Chatbot — Friendly and intelligent conversations
+
+🌐 Language Translator — Translates text between languages
+
+⚡ Powered by OpenRouter.ai
+
+🔐 Uses environment variables for secure API key access
+
+🚀 Features
+Natural language translation
+
+AI chat responses with branding
+
+Express.js backend with CORS support
+
+🔧 Setup
+Clone the repo
+
+Install dependencies
+
+Add your OpenRouter API key in .env
+
+Run the server
+
+📬 API Endpoints
+/chat — AI chatbot interface
+
+/translate — Translate text between languages
+
+Developed by Manish Kumar. 🤖
